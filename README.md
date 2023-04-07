@@ -1,7 +1,10 @@
 # :wave: Hello!
 [![Garrett's github stats](https://github-readme-stats.vercel.app/api?username=gquathamer&hide=stars,contribs)](https://github.com/anuraghazra/github-readme-stats)
 
-* :computer: Currently studying - React.js
+* :computer: Currently studying:
+  * React.js class components ➡️ function components
+  * React.js hooks
+  * Data structures & algorithms [Colt Steele's Course](https://www.udemy.com/course/js-algorithms-and-data-structures-masterclass/)
 * :books: Stack - PostgreSQL, Express, React, Node
 * :wrench: Tools - Webpack, Babel, React-Bootstrap, npm, Git, GitHub
 * :book: Currently reading - [Javascript: The Definitive Guide](https://www.oreilly.com/library/view/javascript-the-definitive/9781491952016/)
