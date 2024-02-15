@@ -1,7 +1,7 @@
 # :information_source: About Me
 I'm Garrett, a web developer. I know JavaScript, HTML, CSS, React, Express, PostgreSQL and am currently working with the PERN stack to build full stack applications. Professionally I've worked for SaaS companies in various positions, such as; sales, solutions engineering and customer success. Over time I became incredibly curious and enthusiastic about how SaaS products work under the hood which led me to web development.
 
-I'm passionate about creating user friendly, simple and fun applications. I'm currently pursuing opportunities in full stack web development. I find the dynamic between front and back end challenging yet rewarding. Seeing the end product work flawlessly is a feeling like no other.
+I'm passionate about creating user friendly, simple and fun applications. I find the dynamic between front and back end challenging yet rewarding. Seeing the end product work flawlessly is a feeling like no other!
 
 :dizzy: Fun Facts
 
